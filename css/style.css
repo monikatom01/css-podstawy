@@ -10,3 +10,10 @@ p {
 #paragraph {
     color: fuchsia;
 }
+.klasa {
+    color: coral;
+}
+
+a, span, div {
+    color: green;
+}
