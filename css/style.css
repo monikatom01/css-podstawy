@@ -3,5 +3,10 @@ body {
 }
 
 p {
-    color: darkorange
+    color: darkorange;
+    
+}
+
+#paragraph {
+    color: fuchsia;
 }
