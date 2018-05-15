@@ -6,9 +6,45 @@ html {
     font-size: 30px;
 
 }
+
 #container > div {
     background-color: red;
     margin-bottom: 15px;
-    color: white;
-    
+    color: white;  
+}
+
+#pixele {
+    width: 400px;
+}
+
+#em {
+    width: 20em;
+}
+
+#ex {
+    width: 20ex;
+}
+
+#rem {
+    width: 20rem;
+}
+
+#procenty {
+    width: 30%;
+}
+
+#vw {
+    width: 20vw;
+}
+
+#vh {
+    width: 20vh;
+}
+
+#vmin {
+    width: 20vmin;
+}
+
+#vmax {
+    width: 20vmax;
 }
