@@ -18,3 +18,7 @@ a, span, div {
 li > a {
     color: red;
 }
+/* selektor el potomnych */
+div a {
+    color: aqua;
+}
