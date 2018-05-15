@@ -14,11 +14,15 @@ p {
 a, span, div {
     color: green;
 }
-
+/* selektor bezposredniego potomstwa */
 li > a {
     color: red;
 }
 /* selektor el potomnych */
 div a {
     color: aqua;
+}
+/* selektor bliskiego rodzenstwa */
+h2 + h3 {
+    color: chocolate;
 }
