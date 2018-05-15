@@ -1,0 +1,33 @@
+div {
+    margin-bottom: 5px;
+}
+
+#kolory-predefiniowane {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+
+#kolory-heksadecymalne {
+    width: 200px;
+    height: 100px;
+    background-color: #11ff44;
+}
+
+#kolory-heksadecymalne-sktocony-zapis {
+    width: 200px;
+    height: 100px;
+    background-color: #1f4;
+}
+
+#rgb {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(22, 119, 85);
+}
+
+#rgba {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(22, 119, 85, 0.3);
+}
